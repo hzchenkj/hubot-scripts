@@ -1,0 +1,9 @@
+hubot scripts in coffee.scripts
+
+npm install -g yo generator-hubot
+mkdir myhubot
+cd myhubot
+yo hubot
+
+
+>>myhubot help
